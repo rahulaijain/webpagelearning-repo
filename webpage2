@@ -5,9 +5,7 @@
     <title>Learning Demo</title>
 </head>
 <body>
-    This is html page for learning demo. 
+    This is second html page for learning demo. 
     <img src="images/image.jpg" alt="Demo Image">
-    Added additional line. 
-    Added 3rd line.
 </body>
 </html>
